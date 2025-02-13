@@ -1,0 +1,53 @@
+2025-02-11 02:03:31 [WARN] org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\JAVA\IdeaProjects\AIT-TR-Java-Course-QA-2024\QA_Project\HW_DemoWebShopTests\src\test\resources\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-02-11 02:03:31 [INFO] Demowebshop.TestBase - 🟢 [SETUP] Инициализация WebDriver
+2025-02-11 02:03:34 [INFO] Demowebshop.TestBase - 🔗 [BROWSER] Открыт сайт Demowebshop
+2025-02-11 02:03:38 [INFO] Demowebshop.TestBase - 🛑 [TEARDOWN] Закрытие браузера
+2025-02-11 02:03:39 [INFO] Demowebshop.TestBase - 🟢 [SETUP] Инициализация WebDriver
+2025-02-11 02:03:42 [INFO] Demowebshop.TestBase - 🔗 [BROWSER] Открыт сайт Demowebshop
+2025-02-11 02:03:45 [INFO] Demowebshop.TestBase - 🛑 [TEARDOWN] Закрытие браузера
+2025-02-11 02:03:46 [INFO] Demowebshop.TestBase - 🟢 [SETUP] Инициализация WebDriver
+2025-02-11 02:03:50 [INFO] Demowebshop.TestBase - 🔗 [BROWSER] Открыт сайт Demowebshop
+2025-02-11 02:03:54 [INFO] Demowebshop.TestBase - 🛑 [TEARDOWN] Закрытие браузера
+2025-02-11 02:13:48 [WARN] org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\JAVA\IdeaProjects\AIT-TR-Java-Course-QA-2024\QA_Project\HW_DemoWebShopTests\src\test\resources\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-02-11 02:13:50 [INFO] Demowebshop.TestBase - 🟢 [SETUP] Инициализация WebDriver
+2025-02-11 02:13:56 [INFO] Demowebshop.TestBase - 🔗 [BROWSER] Открыт сайт Demowebshop
+2025-02-11 02:14:00 [INFO] Demowebshop.TestBase - 🛑 [TEARDOWN] Закрытие браузера
+2025-02-11 02:14:01 [INFO] Demowebshop.TestBase - 🟢 [SETUP] Инициализация WebDriver
+2025-02-11 02:14:03 [INFO] Demowebshop.TestBase - 🔗 [BROWSER] Открыт сайт Demowebshop
+2025-02-11 02:14:06 [INFO] Demowebshop.TestBase - 🛑 [TEARDOWN] Закрытие браузера
+2025-02-11 02:14:06 [INFO] Demowebshop.TestBase - 🟢 [SETUP] Инициализация WebDriver
+2025-02-11 02:14:10 [INFO] Demowebshop.TestBase - 🔗 [BROWSER] Открыт сайт Demowebshop
+2025-02-11 02:14:14 [INFO] Demowebshop.TestBase - 🛑 [TEARDOWN] Закрытие браузера
+2025-02-11 09:19:55 [WARN] org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\JAVA\IdeaProjects\AIT-TR-Java-Course-QA-2024\QA_Project\HW_DemoWebShopTests\src\test\resources\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-02-11 09:19:57 [INFO] Demowebshop.TestBase - 🟢 [SETUP] Инициализация WebDriver
+2025-02-11 09:20:05 [INFO] Demowebshop.TestBase - 🔗 [BROWSER] Открыт сайт Demowebshop
+2025-02-11 09:20:09 [INFO] Demowebshop.TestBase - 🛑 [TEARDOWN] Закрытие браузера
+2025-02-11 09:20:10 [INFO] Demowebshop.TestBase - 🟢 [SETUP] Инициализация WebDriver
+2025-02-11 09:20:12 [INFO] Demowebshop.TestBase - 🔗 [BROWSER] Открыт сайт Demowebshop
+2025-02-11 09:20:16 [INFO] Demowebshop.TestBase - 🛑 [TEARDOWN] Закрытие браузера
+2025-02-11 09:20:16 [INFO] Demowebshop.TestBase - 🟢 [SETUP] Инициализация WebDriver
+2025-02-11 09:20:20 [INFO] Demowebshop.TestBase - 🔗 [BROWSER] Открыт сайт Demowebshop
+2025-02-11 09:20:24 [INFO] Demowebshop.TestBase - 🛑 [TEARDOWN] Закрытие браузера
+2025-02-11 09:27:04 [WARN] org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\JAVA\IdeaProjects\AIT-TR-Java-Course-QA-2024\QA_Project\HW_DemoWebShopTests\src\test\resources\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-02-11 09:27:05 [INFO] Demowebshop.TestBase - 🟢 [SETUP] Инициализация WebDriver
+2025-02-11 09:27:10 [INFO] Demowebshop.TestBase - 🔗 [BROWSER] Открыт сайт Demowebshop
+2025-02-11 09:27:14 [INFO] Demowebshop.TestBase - 🛑 [TEARDOWN] Закрытие браузера
+2025-02-11 09:27:14 [INFO] Demowebshop.TestBase - 🟢 [SETUP] Инициализация WebDriver
+2025-02-11 09:27:19 [INFO] Demowebshop.TestBase - 🔗 [BROWSER] Открыт сайт Demowebshop
+2025-02-11 09:27:21 [INFO] Demowebshop.TestBase - 🛑 [TEARDOWN] Закрытие браузера
+2025-02-11 09:27:21 [INFO] Demowebshop.TestBase - 🟢 [SETUP] Инициализация WebDriver
+2025-02-11 09:27:26 [INFO] Demowebshop.TestBase - 🔗 [BROWSER] Открыт сайт Demowebshop
+2025-02-11 09:27:29 [INFO] Demowebshop.TestBase - 🛑 [TEARDOWN] Закрытие браузера
+2025-02-13 16:24:21 [WARN] org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\JAVA\IdeaProjects\AIT-TR-Java-Course-QA-2024\QA_Project\HW_DemoWebShopTests\src\test\resources\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 16:24:26 [INFO] org.testng.internal.Utils - [TestNG] Running:
+  C:\JAVA\IdeaProjects\AIT-TR-Java-Course-QA-2024\QA_Project\HW_DemoWebShopTests\src\test\resources\testng.xml
+
+2025-02-13 16:24:26 [INFO] Demowebshop.TestBase - 🟢 [SETUP] Инициализация WebDriver
+2025-02-13 16:24:32 [INFO] Demowebshop.TestBase - 🔗 [BROWSER] Открыт сайт Demowebshop
+2025-02-13 16:24:38 [INFO] Demowebshop.TestBase - 🛑 [TEARDOWN] Закрытие браузера
+2025-02-13 16:24:39 [INFO] Demowebshop.TestBase - 🟢 [SETUP] Инициализация WebDriver
+2025-02-13 16:24:42 [INFO] Demowebshop.TestBase - 🔗 [BROWSER] Открыт сайт Demowebshop
+2025-02-13 16:24:44 [INFO] Demowebshop.TestBase - 🛑 [TEARDOWN] Закрытие браузера
+2025-02-13 16:24:45 [INFO] Demowebshop.TestBase - 🟢 [SETUP] Инициализация WebDriver
+2025-02-13 16:24:50 [INFO] Demowebshop.TestBase - 🔗 [BROWSER] Открыт сайт Demowebshop
+2025-02-13 16:24:56 [INFO] Demowebshop.TestBase - 🛑 [TEARDOWN] Закрытие браузера

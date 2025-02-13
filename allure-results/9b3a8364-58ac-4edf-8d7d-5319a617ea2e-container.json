@@ -1,0 +1,1 @@
+{"uuid":"9b3a8364-58ac-4edf-8d7d-5319a617ea2e","name":"Demowebshop.TestBase.setUp","children":["822d4fd5-7814-4c6e-b84b-fac6d78f96c7"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1739262425730,"stop":1739262430864}],"afters":[],"start":1739262425728,"stop":1739262430866}

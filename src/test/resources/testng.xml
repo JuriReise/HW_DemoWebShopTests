@@ -1,0 +1,9 @@
+<suite name="DemoWebShop Tests">
+    <test name="Registration and Login">
+        <classes>
+            <class name="Demowebshop.CreateAccountTests"/>
+            <class name="Demowebshop.LoginTests"/>
+            <class name="Demowebshop.AddItemToCartTests"/>
+        </classes>
+    </test>
+</suite>

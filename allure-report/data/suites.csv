@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3426","testAddItemToCart","DemoWebShop Tests","Tue Feb 11 09:27:26 CET 2025","passed","Tue Feb 11 09:27:29 CET 2025","Demowebshop.AddItemToCartTests","Registration and Login","Demowebshop.AddItemToCartTests","testAddItemToCart"
+"","3174","testCreateNewAccount","DemoWebShop Tests","Tue Feb 11 09:27:11 CET 2025","passed","Tue Feb 11 09:27:14 CET 2025","Demowebshop.CreateAccountTests","Registration and Login","Demowebshop.CreateAccountTests","testCreateNewAccount"
+"Проверка успешного входа в систему с валидными учетными данными","2276","testSuccessfulLogin","DemoWebShop Tests","Tue Feb 11 09:27:19 CET 2025","passed","Tue Feb 11 09:27:21 CET 2025","Demowebshop.LoginTests","Registration and Login","Demowebshop.LoginTests","testSuccessfulLogin"
