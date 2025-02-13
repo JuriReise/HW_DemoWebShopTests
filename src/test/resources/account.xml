@@ -1,0 +1,7 @@
+<suite name="AccountSuite">
+    <test name="CreateAccountTests">
+        <classes>
+            <class name="Demowebshop.CreateAccountTests"/>
+        </classes>
+    </test>
+</suite>

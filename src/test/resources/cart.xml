@@ -1,0 +1,7 @@
+<suite name="CartSuite">
+    <test name="AddItemToCartTests">
+        <classes>
+            <class name="Demowebshop.AddItemToCartTests"/>
+        </classes>
+    </test>
+</suite>

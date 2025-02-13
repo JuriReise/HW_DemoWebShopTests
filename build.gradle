@@ -22,6 +22,24 @@ test {
     useTestNG() {
         suites 'src/test/resources/testng.xml' // Явно указываем TestNG запустить тесты по XML
     }
+
+    tasks.register('home', Test) {
+        useTestNG() {
+            suites "src/test/resources/testng-login.xml"
+        }
+    }
+
+    tasks.register('smoky', Test) {
+        useTestNG() {
+            suites "src/test/resources/testng-account.xml"
+        }
+    }
+
+    tasks.register('regression', Test) {
+        useTestNG() {
+            suites "src/test/resources/testng-cart.xml"
+        }
+    }
     maxParallelForks = 1  // Запуск тестов последовательно
     systemProperty "allure.results.directory", "allure-results"  // Папка для отчётов
 }
