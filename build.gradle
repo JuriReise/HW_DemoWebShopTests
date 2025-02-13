@@ -21,6 +21,7 @@ dependencies {
 test {
     useTestNG() {
         suites 'src/test/resources/testng.xml' // Явно указываем TestNG запустить тесты по XML
+        systemProperty "browser", System.getProperty("browser", "chrome")
     }
 
     tasks.register('home', Test) {
