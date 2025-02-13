@@ -25,19 +25,19 @@ test {
 
     tasks.register('home', Test) {
         useTestNG() {
-            suites "src/test/resources/testng-login.xml"
+            suites "src/test/resources/login.xml"
         }
     }
 
     tasks.register('smoky', Test) {
         useTestNG() {
-            suites "src/test/resources/testng-account.xml"
+            suites "src/test/resources/account.xml"
         }
     }
 
     tasks.register('regression', Test) {
         useTestNG() {
-            suites "src/test/resources/testng-cart.xml"
+            suites "src/test/resources/cart.xml"
         }
     }
     maxParallelForks = 1  // Запуск тестов последовательно
